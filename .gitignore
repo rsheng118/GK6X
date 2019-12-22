@@ -36,6 +36,11 @@ bld/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
+GK6X/[Bb]in/
+GK6X/[Bb]in/
+GK6X/[Oo]bj/
+GK6X/[Ll]og/
+
 # Uncomment if you have tasks that create the project's static files in wwwroot
 #wwwroot/
 
